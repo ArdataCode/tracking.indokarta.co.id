@@ -1,0 +1,3 @@
+<svg wire:loading.remove.delay="1" wire:target="mountTableAction('preview', '86')" class="filament-link-icon w-4 h-4 mr-1 rtl:ml-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z"/>
+</svg><?php /**PATH /home/u726706882/domains/tracking.indokarta.co.id/public_html/storage/framework/views/bd3f3726678f4bd51ab00afcf0afc6b51eb0c1a3.blade.php ENDPATH**/ ?>
